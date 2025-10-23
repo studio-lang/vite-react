@@ -1,0 +1,9 @@
+{
+  "name": "pitp-monorepo",
+  "private": true,
+  "workspaces": [
+    "frontend",
+    "backend",
+    "sync_worker"
+  ]
+}
